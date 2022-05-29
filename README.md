@@ -1,2 +1,2 @@
-# norbert.niedziolko
+ 
 ##moje programowanie
