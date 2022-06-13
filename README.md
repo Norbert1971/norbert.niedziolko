@@ -1,2 +1,2 @@
- Pierwsza próba utworzenia repozytorium, i dodanie pierwszych plików.
+ Pierwsza próba utworzenia repozytorium i dodanie pierwszych plików.
  
