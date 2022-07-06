@@ -1,4 +1,4 @@
  # norbert.niedziolko.github.io
  
-  # Pierwszy Pierwszy
+  # strona z CV
  
